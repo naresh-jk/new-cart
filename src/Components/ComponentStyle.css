@@ -1,0 +1,24 @@
+.sidebar{
+    height: 100%;
+    width: 200px;
+    float: left;
+    background-color: rgb(100, 95, 95);
+    
+}
+.items{
+    float: right;
+    border: black;
+}
+.header{
+    background-color: rgb(59, 54, 54);
+}
+.btn-danger{
+    border-radius: 10px;
+}
+.list{
+    list-style: none;
+
+}
+.image{
+    height: 30px;
+}
